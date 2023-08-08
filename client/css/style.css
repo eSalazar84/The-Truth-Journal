@@ -1,0 +1,14 @@
+.noticias{
+    height: 400px;
+}
+.fw-style{
+    text-decoration: none;
+    color: inherit;
+    background-color: transparent;
+}
+.add-offer{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
